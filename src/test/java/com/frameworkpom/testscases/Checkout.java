@@ -13,6 +13,8 @@ public class Checkout extends BaseClass {
     OrderPage order = new OrderPage();
     com.frameworkpom.pageobjects.LoginPage sign = new LoginPage();
     AddressPage address = new AddressPage();
+    ShippingPage ship = new ShippingPage();
+    Paymentpage paymethod = new Paymentpage();
 
 
     @Test
@@ -40,7 +42,9 @@ public class Checkout extends BaseClass {
 
         address.updateChangeOfAddress(driver, "70 street walk", "warna", "Texas");
 
+        ship.Shippingmethod(driver);
 
+        paymethod.modeofpayment(driver);
 
         tearDown(driver);
 
