@@ -28,6 +28,7 @@ public class LoginPage {
         driver.findElement(submit).click();
 
         //signIn method
+        // sample code to check GIT branching
     }
 
 }

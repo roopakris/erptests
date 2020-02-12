@@ -51,6 +51,7 @@ public class Checkout extends BaseClass {
         System.out.println("updating master only");
 
 
+        // sample code to check GIT branching
     }
 
 }
