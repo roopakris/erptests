@@ -48,6 +48,7 @@ public class Checkout extends BaseClass {
 
         tearDown(driver);
 
+        // sample code to check GIT branching
     }
 
 }
