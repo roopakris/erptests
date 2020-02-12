@@ -46,7 +46,10 @@ public class Checkout extends BaseClass {
 
         paymethod.modeofpayment(driver);
 
-        tearDown(driver);
+
+
+        System.out.println("updating master only");
+
 
     }
 

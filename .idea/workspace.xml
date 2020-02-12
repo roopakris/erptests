@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd9f6238-84e5-4fa6-8ed0-59d92bc503c0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/frameworkpom/pageobjects/AddressPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/frameworkpom/pageobjects/AddressPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/frameworkpom/testscases/Checkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/frameworkpom/testscases/Checkout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/Womenpage_04Feb2020_13-56-53.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/Womenpage_05Feb2020_07-57-12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/Womenpage_05Feb2020_09-34-32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/Womenpage_05Feb2020_09-35-39.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/Womenpage_06Feb2020_07-30-10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/Womenpage_06Feb2020_07-44-57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/Womenpage_06Feb2020_07-50-27.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/Womenpage_06Feb2020_10-40-13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/Womenpage_06Feb2020_10-45-56.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/Womenpage_06Feb2020_10-46-58.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/Womenpage_06Feb2020_10-48-26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/Womenpage_06Feb2020_10-57-32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/Womenpage_06Feb2020_11-06-07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/Womenpage_06Feb2020_11-13-41.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/Womenpage_06Feb2020_11-23-16.png" beforeDir="false" />
-    </list>
+    <list default="true" id="cd9f6238-84e5-4fa6-8ed0-59d92bc503c0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,8 +28,8 @@
       <file leaf-file-name="ShippingPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/frameworkpom/pageobjects/ShippingPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="16" column="88" lean-forward="true" selection-start-line="16" selection-start-column="88" selection-end-line="16" selection-end-column="88" />
+            <state relative-caret-position="255">
+              <caret line="16" column="88" selection-start-line="16" selection-start-column="88" selection-end-line="16" selection-end-column="88" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,7 +40,7 @@
       <file leaf-file-name="Paymentpage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/frameworkpom/pageobjects/Paymentpage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
+            <state relative-caret-position="323">
               <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -71,7 +52,7 @@
       <file leaf-file-name="OrderPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/frameworkpom/pageobjects/OrderPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
+            <state relative-caret-position="595">
               <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -83,8 +64,8 @@
       <file leaf-file-name="AddressPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/frameworkpom/pageobjects/AddressPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,7 +76,7 @@
       <file leaf-file-name="AddingToBasket.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/frameworkpom/testscases/AddingToBasket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="68">
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -107,8 +88,8 @@
       <file leaf-file-name="LoginPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/frameworkpom/pageobjects/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="125">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,8 +100,8 @@
       <file leaf-file-name="Checkout.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/frameworkpom/testscases/Checkout.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="48" column="7" lean-forward="true" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+            <state relative-caret-position="119">
+              <caret line="48" column="25" lean-forward="true" selection-end-line="53" />
             </state>
           </provider>
         </entry>
@@ -592,10 +573,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3298969" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3298969" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -603,47 +584,67 @@
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3298969" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.4742268" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.580756" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.580756" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.38218623" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.38866398" />
       <window_info id="Structure" order="1" sideWeight="0.503268" side_tool="true" weight="0.36923078" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39862543" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Designer" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.580756" />
+      <window_info id="Structure" order="1" sideWeight="0.503268" side_tool="true" weight="0.36923078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298969" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4742268" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39862543" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3298969" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.38218623" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4742268" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.38218623" />
       <window_info id="Structure" order="1" sideWeight="0.503268" side_tool="true" weight="0.36923078" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3298969" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3298969" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39862543" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.580756" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3298969" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3298969" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info id="Favorites" order="5" side_tool="true" />
@@ -711,11 +712,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -784,11 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -837,11 +828,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="12" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -885,11 +871,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -955,8 +936,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/frameworkpom/pageobjects/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="125">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -965,7 +946,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/frameworkpom/pageobjects/OrderPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
+        <state relative-caret-position="595">
           <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -975,7 +956,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/frameworkpom/testscases/AddingToBasket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="68">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -985,8 +966,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/frameworkpom/pageobjects/ShippingPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="16" column="88" lean-forward="true" selection-start-line="16" selection-start-column="88" selection-end-line="16" selection-end-column="88" />
+        <state relative-caret-position="255">
+          <caret line="16" column="88" selection-start-line="16" selection-start-column="88" selection-end-line="16" selection-end-column="88" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -995,8 +976,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/frameworkpom/pageobjects/AddressPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1005,7 +986,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/frameworkpom/pageobjects/Paymentpage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
+        <state relative-caret-position="323">
           <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1015,8 +996,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/frameworkpom/testscases/Checkout.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="48" column="7" lean-forward="true" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+        <state relative-caret-position="119">
+          <caret line="48" column="25" lean-forward="true" selection-end-line="53" />
         </state>
       </provider>
     </entry>
